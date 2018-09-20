@@ -1,4 +1,4 @@
-##### Installation
+### Installation
 
 1. Start PowerShell
 2.  `mkdir ~\My Documents\WindowsPowerShell\Modules` (skip this step if the directory already exists or go somewhere else in your $Env:PSModulePath)
@@ -8,9 +8,9 @@
 
 `Import-Module chomp`
 
-##### Usage
+### Usage
 
-# Easiest way is to use tab-completion to ensure that you pass a valid path to chomp
+#### Easiest way is to use tab-completion to ensure that you pass a valid path to chomp
 
 chomp './test-path' 
 
