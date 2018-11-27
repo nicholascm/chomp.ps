@@ -1,4 +1,4 @@
-### Use at your own risk, PRs welcome - this is serving my purposes as-is but definitely has room for improvemenet
+### Use at your own risk, PRs welcome - this is serving my purposes as-is but definitely has room for improvement
 
 ### Installation
 
